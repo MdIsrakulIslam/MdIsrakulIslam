@@ -1,6 +1,8 @@
-<p align="center">
+![MasterHead](https://github.com/MdIsrakulIslam/MdIsrakulIslam/blob/main/banner-1.png)
+
+<!-- <p align="center">
   <img src="https://drive.google.com/file/d/1zfaQj2_KKCd-Ga8vTJB9_2t3CgFE3XpG/view?usp=sharing" alt="Banner" width="100%" />
-</p>
+</p> -->
 <h1 align="center">Hi 👋, I'm Md. Israkul Islam</h1>
 <h3 align="center">Software Engineer</h3>
 <img align="right" alt="codign" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
@@ -31,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdisrakulislam&show_icons=true&locale=en&layout=compact" alt="mdisrakulislam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdisrakulislam&show_icons=true&locale=en" alt="mdisrakulislam" /></p>
-
-
